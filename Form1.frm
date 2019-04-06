@@ -1,4 +1,4 @@
-'Copyright (C) 2009 by Rizky Hafitsyah'
+'Copyright (C) 2009 by Rizky Khapidsyah'
 
 VERSION 5.00
 Begin VB.Form FormMain 
