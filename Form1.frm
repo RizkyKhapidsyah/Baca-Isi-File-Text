@@ -1,3 +1,5 @@
+'Copyright (C) 2009 by Rizky Hafitsyah'
+
 VERSION 5.00
 Begin VB.Form FormMain 
    BorderStyle     =   1  'Fixed Single
